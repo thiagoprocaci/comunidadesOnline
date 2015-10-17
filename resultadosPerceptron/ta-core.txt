@@ -1,0 +1,211 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a
+Relation:     reputacao
+Instances:    1479
+Attributes:   9
+              entropy
+              answers
+              comments
+              answersComments
+              zscore
+              indegree
+              pagerank
+              indiceConfianca
+              class
+Test mode:user supplied test set: size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -6.08005480016499
+    Node 6    2.250693739867188
+    Node 7    1.0414829435768092
+    Node 8    1.3064694579218465
+    Node 9    3.2218246019255017
+    Node 10    2.272818571356329
+    Node 11    1.1564094842255617
+    Node 12    0.6326882524055897
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -6.936327906225256
+    Node 6    -1.329274512133762
+    Node 7    -1.6246567716742029
+    Node 8    -0.8929211419894935
+    Node 9    0.01125503970273704
+    Node 10    7.067440011905444
+    Node 11    -1.371939438628198
+    Node 12    -0.8569149878353922
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -1.0423076674599014
+    Node 6    -1.29443405516932
+    Node 7    -1.6204666532874388
+    Node 8    -2.9515176840345982
+    Node 9    -2.579583555089038
+    Node 10    1.9559925405967136
+    Node 11    -1.2885237433508139
+    Node 12    -8.416356897779822
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    2.8680371861469163
+    Node 6    -2.149375191854921
+    Node 7    -1.7167380825957925
+    Node 8    -1.749147754467542
+    Node 9    -4.5363538131560075
+    Node 10    -5.443971147058835
+    Node 11    -1.5536450395807657
+    Node 12    -5.523242359447598
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -2.8528702828074506
+    Node 6    -4.7505826683726555
+    Node 7    -0.9986473309553098
+    Node 8    -1.0282480021845826
+    Node 9    -1.7451314107552096
+    Node 10    -6.904896172993864
+    Node 11    -0.9776392515911411
+    Node 12    4.124720042620578
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -5.946740950249711
+    Node 6    3.750036669186087
+    Node 7    -0.7679071492484189
+    Node 8    -0.8728807055619477
+    Node 9    -1.3160914956927325
+    Node 10    -3.1102342518813875
+    Node 11    -0.7706393194676101
+    Node 12    5.359004105058344
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    1.206747327004027
+    Attrib entropy    -5.545970901365562
+    Attrib answers    -0.7597018184911813
+    Attrib comments    3.1181160441797475
+    Attrib answersComments    2.2635642891307404
+    Attrib zscore    0.7477093349753356
+    Attrib indegree    -0.03626871714050298
+    Attrib pagerank    0.9136779333965538
+    Attrib indiceConfianca    0.44203705016184225
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    -1.2082657748579217
+    Attrib entropy    -9.922208649843105
+    Attrib answers    -0.20614887494479894
+    Attrib comments    0.7681684007875719
+    Attrib answersComments    0.39057362483584535
+    Attrib zscore    3.141096539528389
+    Attrib indegree    -0.5712620223668264
+    Attrib pagerank    0.8299296906566123
+    Attrib indiceConfianca    0.9417766894880046
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    -2.457436655004868
+    Attrib entropy    -13.496111808836623
+    Attrib answers    -0.8336830535478188
+    Attrib comments    1.2413713137929556
+    Attrib answersComments    0.5249028132136404
+    Attrib zscore    0.7825565316615933
+    Attrib indegree    -1.3700078843246035
+    Attrib pagerank    0.8706046227429642
+    Attrib indiceConfianca    1.2373494935170888
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    -5.0815256204637835
+    Attrib entropy    -11.737618447299646
+    Attrib answers    -4.8303192005104725
+    Attrib comments    2.2088273154349567
+    Attrib answersComments    -0.1602621440634228
+    Attrib zscore    1.2741739683916748
+    Attrib indegree    -4.092760585185268
+    Attrib pagerank    0.3995827851969511
+    Attrib indiceConfianca    -0.343971022632897
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    -14.263097123343098
+    Attrib entropy    -7.907009037090632
+    Attrib answers    -8.750703266323331
+    Attrib comments    4.898965770912735
+    Attrib answersComments    -0.08274439069650262
+    Attrib zscore    1.4160403500223782
+    Attrib indegree    -9.184981740851411
+    Attrib pagerank    -4.777302447768074
+    Attrib indiceConfianca    -1.9145078533238304
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    -1.306460396797591
+    Attrib entropy    -11.521050862850906
+    Attrib answers    -0.1243325364296818
+    Attrib comments    0.745304752006578
+    Attrib answersComments    0.38951689607727574
+    Attrib zscore    3.5363622561102708
+    Attrib indegree    -0.5584290932182465
+    Attrib pagerank    0.9256584471022681
+    Attrib indiceConfianca    0.9805334146628748
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    7.722683435760405
+    Attrib entropy    2.9659835069113765
+    Attrib answers    7.941633431147518
+    Attrib comments    -1.5049067393672744
+    Attrib answersComments    1.9115055059837724
+    Attrib zscore    6.9071330370941455
+    Attrib indegree    -0.7614827069361111
+    Attrib pagerank    -3.9011502472844746
+    Attrib indiceConfianca    6.148588890434991
+Class nao-confiavel
+    Input
+    Node 0
+Class pouco-confiavel
+    Input
+    Node 1
+Class razoavelmente-confiavel
+    Input
+    Node 2
+Class confiavel
+    Input
+    Node 3
+Class bem-confiavel
+    Input
+    Node 4
+Class muito-confiavel
+    Input
+    Node 5
+
+
+Time taken to build model: 12.31 seconds
+
+=== Evaluation on test set ===
+=== Summary ===
+
+Correctly Classified Instances        3297               92.1207 %
+Incorrectly Classified Instances       282                7.8793 %
+Kappa statistic                          0.603 
+Mean absolute error                      0.0378
+Root mean squared error                  0.1361
+Relative absolute error                 33.4618 %
+Root relative squared error             67.5151 %
+Total Number of Instances             3579     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.978     0.308      0.961     0.978     0.969      0.948    nao-confiavel
+                 0.409     0.03       0.495     0.409     0.448      0.904    pouco-confiavel
+                 0.42      0.01       0.553     0.42      0.477      0.966    razoavelmente-confiavel
+                 0.868     0.005      0.742     0.868     0.8        0.997    confiavel
+                 0.917     0.001      0.733     0.917     0.815      0.999    bem-confiavel
+                 0.333     0          1         0.333     0.5        0.999    muito-confiavel
+Weighted Avg.    0.921     0.274      0.914     0.921     0.917      0.947
+
+=== Confusion Matrix ===
+
+    a    b    c    d    e    f   <-- classified as
+ 3097   66    3    0    0    0 |    a = nao-confiavel
+  117   99   26    0    0    0 |    b = pouco-confiavel
+   10   33   42   15    0    0 |    c = razoavelmente-confiavel
+    0    2    5   46    0    0 |    d = confiavel
+    0    0    0    1   11    0 |    e = bem-confiavel
+    0    0    0    0    4    2 |    f = muito-confiavel
+
