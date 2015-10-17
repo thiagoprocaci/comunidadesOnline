@@ -1,0 +1,99 @@
+Bio Core spearman
+answers: 0.5568858
+comments: 0.6467362
+answers_comments: 0.7150507
+indegree: 0.7255253
+page_rank: 0.6325139
+entropy: 0.7178065
+zscore: 0.4516406
+expertise_index: 0.6674621
+
+Bio Dados spearman
+answers: 0.4312156
+comments: 0.6152802
+answers_comments: 0.6284027
+indegree: 0.6058663
+page_rank: 0.5867752
+entropy: 0.653631
+zscore: 0.3693341
+expertise_index: 0.5973662
+
+ELU Core spearman
+answers: 0.5888436
+comments: 0.6968336
+answers_comments: 0.7530621
+indegree: 0.7620774
+page_rank: 0.6507649
+entropy: 0.7693812
+zscore: 0.5190023
+expertise_index: 0.6989854
+
+ELU Dados spearman
+answers: 0.4858555
+comments: 0.6764842
+answers_comments: 0.6893125
+indegree: 0.6601873
+page_rank: 0.6022026
+entropy: 0.7183518
+zscore: 0.4434865
+expertise_index: 0.6606495
+
+FIS Core spearman
+answers: 0.4834832
+comments: 0.6624978
+answers_comments: 0.6879056
+indegree: 0.7096345
+page_rank: 0.6276176
+entropy: 0.7198982
+zscore: 0.4673611
+expertise_index: 0.621905
+
+FIS Dados spearman
+answers: 0.3971249
+comments: 0.6267797
+answers_comments: 0.6145098
+indegree: 0.5991281
+page_rank: 0.5707165
+entropy: 0.6634936
+zscore: 0.4362661
+expertise_index: 0.584928
+
+Mat Core spearman
+answers: 0.6646616
+comments: 0.5609323
+answers_comments: 0.6340912
+indegree: 0.6976537
+page_rank: 0.5704754
+entropy: 0.7289308
+zscore: 0.5773636
+expertise_index: 0.7057035
+
+Mat Dados spearman
+answers: 0.4984448
+comments: 0.5414063
+answers_comments: 0.5790921
+indegree: 0.6032887
+page_rank: 0.5663306
+entropy: 0.62716
+zscore: 0.538523
+expertise_index: 0.5864225
+
+Travel Core spearman
+answers: 0.720523
+comments: 0.6784605
+answers_comments: 0.7959663
+indegree: 0.8070315
+page_rank: 0.7045821
+entropy: 0.820014
+zscore: 0.6232297
+expertise_index: 0.8014527
+
+Travel Dados spearman
+answers: 0.684271
+comments: 0.6331655
+answers_comments: 0.7609803
+indegree: 0.7298817
+page_rank: 0.6820842
+entropy: 0.7480512
+zscore: 0.6145288
+expertise_index: 0.7349307
